@@ -83,21 +83,37 @@ db.password=password
 ---
 
 🕹️ Functionality of Buttons
-## View Employees
+### View Employees
 Displays all employees in the database with their details such as ID, name, salary, email, phone, and address.
-## Add Employee
+### Add Employee
 Prompts the user to enter employee details (name, position, salary, email, phone, address).
 If a duplicate entry (e.g., same name or email) is detected, a message "Duplicate entry not allowed" will be displayed.
-## View by ID
+### View by ID
 Prompts the user to enter an employee's ID.
 If the employee exists, their details will be displayed.
 If not, a message "Employee doesn't exist" will be shown.
-## Remove Employee
+### Remove Employee
 Prompts the user to enter an employee's ID.
 The corresponding record will be removed from the database.
 If the employee doesn't exist, a message "Employee not found" will be displayed.
-## Update Employee
+### Update Employee
 Prompts the user to enter an employee's ID.
 If the employee exists, their details will be displayed.
 The user can then update fields like name, position, salary, email, phone, and address.
 
+## 📸 Screenshots
+
+
+## 🚀 Future Enhancements
+Add role-based authentication for secure access.
+Implement advanced search and filtering options.
+Enhance the GUI with modern UI frameworks like JavaFX.
+Support for exporting employee data to Excel or PDF.
+## 📜 License
+This project is open-source and available under the MIT License. Feel free to contribute to this project by submitting issues or pull requests!
+
+## 📧 Contact
+For any questions or issues, please contact:
+
+🔗 LinkedIn
+🐙 GitHub
