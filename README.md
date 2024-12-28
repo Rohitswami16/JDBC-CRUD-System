@@ -55,6 +55,7 @@ CREATE TABLE employees (
     phone VARCHAR(20),
     address VARCHAR(200)
 );
+```
 🚀 How to Run the Project
 1. 📥 Clone the Repository
 bash
