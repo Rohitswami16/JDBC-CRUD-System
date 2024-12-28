@@ -65,3 +65,39 @@ To clone the repository, run the following commands in your terminal:
 bash
 git clone https://github.com/Rohitswami16/JDBC-CRUD-System.git
 cd JDBC-CRUD-System
+
+### 🔧 Set Up the Database
+Install MySQL or any JDBC-compatible database.
+Execute the SQL script in db-scripts/schema.sql to create the necessary database and table.
+### 🔧 Configure Database Connection
+Edit the application.properties file in the resources folder to specify your database credentials:
+db.url=jdbc:mysql://localhost:3306/EmployeeDB
+db.user=root
+db.password=password
+
+### ▶️ Run the Application
+1. Open the project in your IDE (e.g., Eclipse or IntelliJ IDEA).
+2. Add the JDBC driver (mysql-connector-java.jar) to the classpath.
+3. Run the Main.java file to start the application.
+
+---
+
+🕹️ Functionality of Buttons
+# View Employees
+Displays all employees in the database with their details such as ID, name, salary, email, phone, and address.
+# Add Employee
+Prompts the user to enter employee details (name, position, salary, email, phone, address).
+If a duplicate entry (e.g., same name or email) is detected, a message "Duplicate entry not allowed" will be displayed.
+# View by ID
+Prompts the user to enter an employee's ID.
+If the employee exists, their details will be displayed.
+If not, a message "Employee doesn't exist" will be shown.
+# Remove Employee
+Prompts the user to enter an employee's ID.
+The corresponding record will be removed from the database.
+If the employee doesn't exist, a message "Employee not found" will be displayed.
+# Update Employee
+Prompts the user to enter an employee's ID.
+If the employee exists, their details will be displayed.
+The user can then update fields like name, position, salary, email, phone, and address.
+
