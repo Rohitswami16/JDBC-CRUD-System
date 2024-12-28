@@ -32,9 +32,20 @@ The **JDBC-CRUD-System** is a Java-based desktop application that demonstrates t
 
 ## 📂 Project Structure
 
+JDBC-CRUD-System/
+├── JRE System Library/                  
+├── src/                                 
+│   ├── JDBC_CRUD_OPERATIONS/           
+│   │   ├── AddEmployeeFrame.java                
+│   │   ├── EmployeeDetails.java             
+│   │   ├── RemoveEmployeeFrame.java             
+│   │   ├── HomePage.java  
+│   │   ├── UpdateEmployeeFrame.java   
+│   │   ├── ViewByIdFrame.java                         
+├── Referenced Libraries/                
+│   └── mysql-connector-java.jar        
+├── README.md                            
 
-sql
-Copy code
 
 ---
 
