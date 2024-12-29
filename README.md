@@ -67,7 +67,8 @@ CREATE TABLE employees (
     address VARCHAR(200)
 );
 ```
-# JDBC-CRUD-System
+
+--- 
 
 ## 🚀 How to Run the Project
 
