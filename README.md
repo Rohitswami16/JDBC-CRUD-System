@@ -127,5 +127,6 @@ This project is open-source and available under the MIT License. Feel free to co
 ## 📧 Contact
 For any questions or issues, please contact:
 
-🔗 LinkedIn
-🐙 GitHub
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohit-swami16/)
+
+🐙 GitHub: [Rohitswami16](https://github.com/Rohitswami16)
