@@ -115,6 +115,27 @@ The user can then update fields like name, position, salary, email, phone, and a
 
 ## 📸 Screenshots
 
+HOME 
+
+![Home](https://github.com/user-attachments/assets/1891e088-a7cb-4fcd-8083-5b84fb546136)
+
+EMPLOYEE DETAILS
+
+![EmployeeDetails](https://github.com/user-attachments/assets/38567982-47f5-4e86-acaa-25d1e474515c)
+
+ADD NEW EMPLOYEE
+![AddNewEmployee](https://github.com/user-attachments/assets/09bbacf5-0ab8-4bfd-ad4c-2d72b4ad5086)
+
+VIEW BY EMPLOYEE ID
+
+![ViewByID](https://github.com/user-attachments/assets/8b74ebec-3a6f-4584-8e5f-a249027a4c59)
+
+UPDATE EMPLOYEE DETAILS
+
+![UpdateEmployeeDetails](https://github.com/user-attachments/assets/a3e1672f-22db-45cc-b3e6-15aefe52824f)
+
+REMOVE EMPLOYEE DETAILS
+![RemoveEmployeeDetails](https://github.com/user-attachments/assets/4091cdc0-35b6-4a98-9018-cd5b3060b867)
 
 ## 🚀 Future Enhancements
 Add role-based authentication for secure access.
@@ -130,3 +151,4 @@ For any questions or issues, please contact:
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohit-swami16/)
 
 🐙 GitHub: [Rohitswami16](https://github.com/Rohitswami16)
+
