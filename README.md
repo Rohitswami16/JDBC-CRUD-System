@@ -124,6 +124,7 @@ EMPLOYEE DETAILS
 ![EmployeeDetails](https://github.com/user-attachments/assets/38567982-47f5-4e86-acaa-25d1e474515c)
 
 ADD NEW EMPLOYEE
+
 ![AddNewEmployee](https://github.com/user-attachments/assets/09bbacf5-0ab8-4bfd-ad4c-2d72b4ad5086)
 
 VIEW BY EMPLOYEE ID
@@ -135,6 +136,7 @@ UPDATE EMPLOYEE DETAILS
 ![UpdateEmployeeDetails](https://github.com/user-attachments/assets/a3e1672f-22db-45cc-b3e6-15aefe52824f)
 
 REMOVE EMPLOYEE DETAILS
+
 ![RemoveEmployeeDetails](https://github.com/user-attachments/assets/4091cdc0-35b6-4a98-9018-cd5b3060b867)
 
 ## 🚀 Future Enhancements
