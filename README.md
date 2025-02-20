@@ -115,29 +115,43 @@ The user can then update fields like name, position, salary, email, phone, and a
 
 ## 📸 Screenshots
 
-HOME 
+# Employee Management System
 
-![Home](https://github.com/user-attachments/assets/1891e088-a7cb-4fcd-8083-5b84fb546136)
+## Home & Employee Details
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1891e088-a7cb-4fcd-8083-5b84fb546136" width="400"><br><b>Home</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/38567982-47f5-4e86-acaa-25d1e474515c" width="400"><br><b>Employee Details</b>
+    </td>
+  </tr>
+</table>
 
-EMPLOYEE DETAILS
+## Add New Employee & View by Employee ID
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/09bbacf5-0ab8-4bfd-ad4c-2d72b4ad5086" width="400"><br><b>Add New Employee</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8b74ebec-3a6f-4584-8e5f-a249027a4c59" width="400"><br><b>View by Employee ID</b>
+    </td>
+  </tr>
+</table>
 
-![EmployeeDetails](https://github.com/user-attachments/assets/38567982-47f5-4e86-acaa-25d1e474515c)
-
-ADD NEW EMPLOYEE
-
-![AddNewEmployee](https://github.com/user-attachments/assets/09bbacf5-0ab8-4bfd-ad4c-2d72b4ad5086)
-
-VIEW BY EMPLOYEE ID
-
-![ViewByID](https://github.com/user-attachments/assets/8b74ebec-3a6f-4584-8e5f-a249027a4c59)
-
-UPDATE EMPLOYEE DETAILS
-
-![UpdateEmployeeDetails](https://github.com/user-attachments/assets/a3e1672f-22db-45cc-b3e6-15aefe52824f)
-
-REMOVE EMPLOYEE DETAILS
-
-![RemoveEmployeeDetails](https://github.com/user-attachments/assets/4091cdc0-35b6-4a98-9018-cd5b3060b867)
+## Update Employee Details & Remove Employee Details
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a3e1672f-22db-45cc-b3e6-15aefe52824f" width="400"><br><b>Update Employee Details</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4091cdc0-35b6-4a98-9018-cd5b3060b867" width="400"><br><b>Remove Employee Details</b>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Future Enhancements
 Add role-based authentication for secure access.
